@@ -1,0 +1,38 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "wux-avatar": "/src/wux_weapp/avatar/index",
+    "wux-animation-group": "/src/wux_weapp/animation-group/index",
+    "wux-icon": "/src/wux_weapp/icon/index",
+    "wux-button": "/src/wux_weapp/button/index",
+    "wux-badge": "/src/wux_weapp/badge/index",
+    "wux-tabbar": "/src/wux_weapp/tabbar/index",
+    "wux-tabbar-item": "/src/wux_weapp/tabbar-item/index",
+    "wux-row": "/src/wux_weapp/row/index",
+    "wux-col": "/src/wux_weapp/col/index",
+    "wux-spin": "/src/wux_weapp/spin/index",
+    "wux-divider": "/src/wux_weapp/divider/index",
+    "wux-search-bar": "/src/wux_weapp/search-bar/index",
+    "wux-refresher": "/src/wux_weapp/refresher/index",
+    "wux-floating-button": "/src/wux_weapp/floating-button/index",
+    "wux-filterbar": "/src/wux_weapp/filterbar/index",
+    "wux-cell-group": "/src/wux_weapp/cell-group/index",
+    "wux-cell": "/src/wux_weapp/cell/index",
+    "wux-switch": "/src/wux_weapp/switch/index",
+    "wux-dialog": "/src/wux_weapp/dialog/index"
+  },
+  "pages": [
+    "pages/index/main",
+    "pages/logs/main",
+    "pages/counter/main",
+    "pages/search/main",
+    "pages/details/main",
+    "pages/subscriptionManagement/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f1f1f1",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "black"
+  }
+}
