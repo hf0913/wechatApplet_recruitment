@@ -28,7 +28,7 @@
 import msgList from '@/components/msgList'
 import loadding from '@/components/loadding'
 import myTabbar from '@/components/myTabbar'
-import { $stopWuxRefresher } from '@/wux_weapp/index.js'
+import { $stopWuxRefresher } from '../../../static/index.js'
 
 export default {
   name: 'Home',

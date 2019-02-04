@@ -22,7 +22,7 @@
 </template>
 <script>
 import msgList from '@/components/msgList'
-import { $stopWuxRefresher } from '@/wux_weapp/index.js'
+import { $stopWuxRefresher } from '../../../static/index.js'
 export default {
     name: 'search',
     data() {
